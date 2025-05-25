@@ -16,7 +16,7 @@ WarGame is a turn-based strategy game where players command units on a battlefie
 1. **Install Squeak**: Download and install Squeak from [squeak.org](https://squeak.org/downloads/).
 2. **Load the Project**:
    - Open Squeak.
-   - Use the File Browser to load `Maman15-WarGame.st`.
+   - Use the File Browser to load `CardWarGame.st`.
 3. **Add Resources**:
    - Place the images from the `photos` folder into the `Resources` directory within your Squeak environment.
 4. **Run the Game**:
